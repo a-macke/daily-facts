@@ -1,0 +1,55 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324"
+  },
+  {
+   "startTime": 24.33,
+   "title": "World: Ukraine",
+   "url": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324"
+  },
+  {
+   "startTime": 118.53,
+   "title": "World: Middle East",
+   "url": "https://www.iranintl.com/en/202610201499"
+  },
+  {
+   "startTime": 248.0,
+   "title": "World: Africa",
+   "url": "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region"
+  },
+  {
+   "startTime": 323.7,
+   "title": "World: Europe and the Americas",
+   "url": "https://x.com/Reuters/status/2112581616841228522"
+  },
+  {
+   "startTime": 371.68,
+   "title": "World: Markets",
+   "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-strong-earnings-offset-ai-credit-fears-d55414c3"
+  },
+  {
+   "startTime": 415.58,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://www.inquirer.com/crime/larry-krasner-criminal-investigation-department-of-justice-20261020.html"
+  },
+  {
+   "startTime": 509.9,
+   "title": "AI",
+   "url": "https://economictimes.indiatimes.com/tech/technology/bytedance-alibaba-tencent-place-over-35-billion-worth-of-nvidia-chip-orders/articleshow/135066129.cms"
+  },
+  {
+   "startTime": 579.6,
+   "title": "For your business",
+   "url": "https://www.nahb.org/blog/2026/10/canadian-lumber-antidumping-countervailing-duties"
+  },
+  {
+   "startTime": 653.73,
+   "title": "Outro",
+   "url": "https://a-macke.github.io/daily-facts/feed.xml"
+  }
+ ]
+}
