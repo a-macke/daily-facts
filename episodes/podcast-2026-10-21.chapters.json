@@ -1,0 +1,50 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://apnews.com/article/riyadh-saudi-arabia-oil-facility-drones-01c03af3191263452376510a670e8bf7"
+  },
+  {
+   "startTime": 22.65,
+   "title": "World: Middle East",
+   "url": "https://apnews.com/article/riyadh-saudi-arabia-oil-facility-drones-01c03af3191263452376510a670e8bf7"
+  },
+  {
+   "startTime": 188.25,
+   "title": "World: Ukraine and Russia",
+   "url": "https://x.com/AFP/status/2112871538613498224"
+  },
+  {
+   "startTime": 250.7,
+   "title": "World: Other news",
+   "url": "https://x.com/AFP/status/2112876580842172857"
+  },
+  {
+   "startTime": 361.6,
+   "title": "World: Markets",
+   "url": "https://x.com/CNBC/status/2113017945123324228"
+  },
+  {
+   "startTime": 395.08,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/PhillyInquirer/status/2112908306318491926"
+  },
+  {
+   "startTime": 502.18,
+   "title": "AI",
+   "url": "https://x.com/claudeai/status/2112984664256241837"
+  },
+  {
+   "startTime": 587.68,
+   "title": "For your business",
+   "url": "https://x.com/CNBC/status/2113022791205192029"
+  },
+  {
+   "startTime": 674.45,
+   "title": "Outro",
+   "url": "https://a-macke.github.io/daily-facts/feed.xml"
+  }
+ ]
+}
