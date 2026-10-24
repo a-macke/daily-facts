@@ -1,0 +1,60 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/AFP/status/2113661774016758248"
+  },
+  {
+   "startTime": 24.15,
+   "title": "World: Jordan, Israel and the West Bank",
+   "url": "https://x.com/AFP/status/2113661774016758248"
+  },
+  {
+   "startTime": 134.48,
+   "title": "World: Iran, Yemen and Oil",
+   "url": "https://x.com/Reuters/status/2113724677252137050"
+  },
+  {
+   "startTime": 197.75,
+   "title": "World: Ukraine and Russia",
+   "url": "https://x.com/Reuters/status/2113625750024618202"
+  },
+  {
+   "startTime": 243.8,
+   "title": "World: Europe",
+   "url": "https://x.com/Reuters/status/2113654179059081546"
+  },
+  {
+   "startTime": 301.45,
+   "title": "World: Other news",
+   "url": "https://x.com/Reuters/status/2113680602067280056"
+  },
+  {
+   "startTime": 338.55,
+   "title": "Nation and Markets",
+   "url": "https://x.com/AP/status/2113655590018753007"
+  },
+  {
+   "startTime": 391.38,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/NWS_MountHolly/status/2113701617895682358"
+  },
+  {
+   "startTime": 489.0,
+   "title": "AI",
+   "url": "https://x.com/business/status/2113584979099689050"
+  },
+  {
+   "startTime": 529.6,
+   "title": "For your business",
+   "url": "https://x.com/CNBC/status/2113749382981992817"
+  },
+  {
+   "startTime": 589.18,
+   "title": "Outro",
+   "url": "https://x.com/AFP/status/2113661774016758248"
+  }
+ ]
+}
