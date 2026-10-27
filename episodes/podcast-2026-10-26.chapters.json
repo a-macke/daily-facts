@@ -1,0 +1,59 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/AP/status/2114518224049999904"
+  },
+  {
+   "startTime": 24.84,
+   "title": "World: Brazil, Serbia and Venezuela",
+   "url": "https://x.com/AP/status/2114518224049999904"
+  },
+  {
+   "startTime": 98.66,
+   "title": "World: Iran, Saudi Arabia and the Gulf",
+   "url": "https://x.com/AJEnglish/status/2114786642300977187"
+  },
+  {
+   "startTime": 162.09,
+   "title": "World: Israel, the West Bank, Jordan and Syria",
+   "url": "https://x.com/Reuters/status/2114839567689822245"
+  },
+  {
+   "startTime": 246.92,
+   "title": "World: Ukraine, Russia and Europe",
+   "url": "https://x.com/AJEnglish/status/2114809292784287796"
+  },
+  {
+   "startTime": 293.68,
+   "title": "World: Other news",
+   "url": "https://x.com/Reuters/status/2114713658366275596"
+  },
+  {
+   "startTime": 348.8,
+   "title": "Nation and Markets",
+   "url": "https://x.com/AP/status/2114836890540990601"
+  },
+  {
+   "startTime": 431.12,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/NBCPhiladelphia/status/2114764034989752748"
+  },
+  {
+   "startTime": 534.46,
+   "title": "AI",
+   "url": "https://x.com/CNBC/status/2114705000790122811"
+  },
+  {
+   "startTime": 626.49,
+   "title": "For your business",
+   "url": "https://x.com/Reuters/status/2114804339445268614"
+  },
+  {
+   "startTime": 668.42,
+   "title": "Outro"
+  }
+ ]
+}
