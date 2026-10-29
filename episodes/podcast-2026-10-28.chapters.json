@@ -1,0 +1,59 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/CBSNews/status/2115559505631346779"
+  },
+  {
+   "startTime": 20.49,
+   "title": "World: Spain train collision",
+   "url": "https://x.com/CBSNews/status/2115559505631346779"
+  },
+  {
+   "startTime": 56.19,
+   "title": "World: Israel's election",
+   "url": "https://x.com/AJEnglish/status/2115518183243153556"
+  },
+  {
+   "startTime": 155.14,
+   "title": "World: Iran, the Gulf, Yemen and Lebanon",
+   "url": "https://x.com/CBSNews/status/2115430871406661926"
+  },
+  {
+   "startTime": 236.8,
+   "title": "World: Ukraine, Russia and Europe",
+   "url": "https://x.com/AP/status/2115476465395319075"
+  },
+  {
+   "startTime": 314.87,
+   "title": "World: Other news",
+   "url": "https://x.com/AP/status/2115443500116267283"
+  },
+  {
+   "startTime": 367.59,
+   "title": "Nation and Markets",
+   "url": "https://x.com/Reuters/status/2115505751594553348"
+  },
+  {
+   "startTime": 447.83,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/mychesco/status/2115504408683274626"
+  },
+  {
+   "startTime": 505.19,
+   "title": "AI",
+   "url": "https://x.com/CNBC/status/2115428325573148714"
+  },
+  {
+   "startTime": 555.05,
+   "title": "For your business",
+   "url": "https://x.com/business/status/2115590725505003580"
+  },
+  {
+   "startTime": 606.57,
+   "title": "Outro"
+  }
+ ]
+}
