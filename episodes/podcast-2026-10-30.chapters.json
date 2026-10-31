@@ -1,0 +1,49 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/Reuters/status/2116193488035274894"
+  },
+  {
+   "startTime": 25.59,
+   "title": "World: Iran and the Gulf",
+   "url": "https://x.com/Reuters/status/2116193488035274894"
+  },
+  {
+   "startTime": 150.7,
+   "title": "World: Ukraine and Russia",
+   "url": "https://x.com/Reuters/status/2116263951583383632"
+  },
+  {
+   "startTime": 203.92,
+   "title": "World: Other news",
+   "url": "https://x.com/AP/status/2116167680298266947"
+  },
+  {
+   "startTime": 271.16,
+   "title": "Nation and Markets",
+   "url": "https://x.com/CNBC/status/2116261502143402245"
+  },
+  {
+   "startTime": 392.84,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://6abc.com/post/hazmat-teams-responds-report-possible-suspicious-powder-county-building-west-chester-pennsylvania/20000058/"
+  },
+  {
+   "startTime": 503.23,
+   "title": "AI",
+   "url": "https://x.com/Reuters/status/2116090269024112867"
+  },
+  {
+   "startTime": 573.71,
+   "title": "For your business",
+   "url": "https://x.com/Reuters/status/2116186372595954011"
+  },
+  {
+   "startTime": 630.83,
+   "title": "Outro"
+  }
+ ]
+}
