@@ -1,0 +1,50 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://www.investing.com/news/commodities-news/trump-raises-doubts-about-renewed-attacks-on-iran-4992689"
+  },
+  {
+   "startTime": 25.59,
+   "title": "World: Iran and the Gulf",
+   "url": "https://www.investing.com/news/commodities-news/trump-raises-doubts-about-renewed-attacks-on-iran-4992689"
+  },
+  {
+   "startTime": 116.39,
+   "title": "World: Ukraine and Russia",
+   "url": "https://apnews.com/article/russia-ukraine-cyberattacks-emergency-apps-717372f7bbf4e8a805bc918f06f9730f"
+  },
+  {
+   "startTime": 188.54,
+   "title": "World: Europe and elsewhere",
+   "url": "https://www.investing.com/news/stock-market-news/cyberattack-on-fridges-hits-supermarkets-across-europe-4991995"
+  },
+  {
+   "startTime": 276.51,
+   "title": "Nation",
+   "url": "https://apnews.com/article/midterm-elections-immigration-voter-fraud-trump-48998968a23a4af2f59eaea3dba4d2f3"
+  },
+  {
+   "startTime": 365.42,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/KYWNewsradio/status/2117401874525540473"
+  },
+  {
+   "startTime": 461.04,
+   "title": "AI",
+   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+  },
+  {
+   "startTime": 525.83,
+   "title": "For your business",
+   "url": "https://finance.yahoo.com/markets/commodities/articles/bc-lumber-futures-153014186.html"
+  },
+  {
+   "startTime": 591.96,
+   "title": "Outro",
+   "url": "https://apnews.com/article/midterm-elections-immigration-voter-fraud-trump-48998968a23a4af2f59eaea3dba4d2f3"
+  }
+ ]
+}
