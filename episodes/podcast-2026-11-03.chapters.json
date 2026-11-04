@@ -1,0 +1,55 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/AP/status/2117783750201274645"
+  },
+  {
+   "startTime": 26.74,
+   "title": "World: Iran and the Gulf",
+   "url": "https://x.com/CBSNews/status/2117451570283413548"
+  },
+  {
+   "startTime": 128.81,
+   "title": "World: Ukraine and Russia",
+   "url": "https://x.com/AFP/status/2117738686792003641"
+  },
+  {
+   "startTime": 189.82,
+   "title": "World: Europe and elsewhere",
+   "url": "https://x.com/AFP/status/2117646490025795996"
+  },
+  {
+   "startTime": 255.63,
+   "title": "Nation: Election Day",
+   "url": "https://x.com/AP/status/2117783750201274645"
+  },
+  {
+   "startTime": 367.47,
+   "title": "Markets and the economy",
+   "url": "https://x.com/CNBC/status/2117705173816508904"
+  },
+  {
+   "startTime": 421.54,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/KYWNewsradio/status/2117722187595477207"
+  },
+  {
+   "startTime": 525.04,
+   "title": "AI",
+   "url": "https://x.com/Reuters/status/2117421711817637916"
+  },
+  {
+   "startTime": 591.61,
+   "title": "For your business",
+   "url": "https://x.com/mychesco/status/2117693790399979643"
+  },
+  {
+   "startTime": 638.38,
+   "title": "Outro",
+   "url": "https://x.com/AP/status/2117783750201274645"
+  }
+ ]
+}
