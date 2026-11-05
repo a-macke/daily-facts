@@ -1,0 +1,60 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/Reuters/status/2117955046214168688"
+  },
+  {
+   "startTime": 28.69,
+   "title": "Nation: The midterm results",
+   "url": "https://x.com/Reuters/status/2117955046214168688"
+  },
+  {
+   "startTime": 157.17,
+   "title": "Nation: Reaction and the Iran war",
+   "url": "https://x.com/AP/status/2118075373137047559"
+  },
+  {
+   "startTime": 235.83,
+   "title": "World: Iran and the Gulf",
+   "url": "https://x.com/Reuters/status/2117829343778889915"
+  },
+  {
+   "startTime": 305.89,
+   "title": "World: Ukraine and Russia",
+   "url": "https://x.com/Reuters/status/2118020502296080706"
+  },
+  {
+   "startTime": 329.22,
+   "title": "World: Elsewhere",
+   "url": "https://x.com/AJEnglish/status/2117976407338786899"
+  },
+  {
+   "startTime": 388.96,
+   "title": "Markets and the economy",
+   "url": "https://x.com/Reuters/status/2118067986636714166"
+  },
+  {
+   "startTime": 441.63,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/6abc/status/2117821665702814080"
+  },
+  {
+   "startTime": 537.0,
+   "title": "AI",
+   "url": "https://x.com/CNBC/status/2118056305352954076"
+  },
+  {
+   "startTime": 601.25,
+   "title": "For your business",
+   "url": "https://x.com/business/status/2117976435050606952"
+  },
+  {
+   "startTime": 646.72,
+   "title": "Outro",
+   "url": "https://x.com/AJEnglish/status/2118092751871058120"
+  }
+ ]
+}
