@@ -1,0 +1,55 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e"
+  },
+  {
+   "startTime": 25.52,
+   "title": "Markets",
+   "url": "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e"
+  },
+  {
+   "startTime": 104.3,
+   "title": "World: Iran and the Gulf",
+   "url": "https://www.arabnews.com/middle-east/iran-sent-nuclear-proposal-to-the-us-via-qatar-senior-iranian-official-says-3010067"
+  },
+  {
+   "startTime": 170.46,
+   "title": "World: Ukraine and Russia",
+   "url": "https://apnews.com/article/ukraine-melania-trump-oleshky-ceasefire-putin-envoy-3ae35835dbc87ab348478c62c6c25ee3"
+  },
+  {
+   "startTime": 215.51,
+   "title": "World: Elsewhere",
+   "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+  },
+  {
+   "startTime": 288.19,
+   "title": "Nation: Midterm aftermath",
+   "url": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html"
+  },
+  {
+   "startTime": 353.85,
+   "title": "Local: Southeast PA",
+   "url": "https://www.inquirer.com/news/upper-merion-pipeline-leak-river-road-20261105.html"
+  },
+  {
+   "startTime": 477.96,
+   "title": "AI",
+   "url": "https://x.com/CNBC/status/2118438758492033053"
+  },
+  {
+   "startTime": 527.39,
+   "title": "For your business",
+   "url": "https://www.investing.com/news/economy-news/us-tariffs-squeeze-canadian-cabinet-makers-facing-doubling-of-trump-duty-5003154"
+  },
+  {
+   "startTime": 585.2,
+   "title": "Outro",
+   "url": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html"
+  }
+ ]
+}
