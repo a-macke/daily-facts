@@ -1,0 +1,60 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+  },
+  {
+   "startTime": 23.22,
+   "title": "World: Poland",
+   "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+  },
+  {
+   "startTime": 96.58,
+   "title": "World: Ukraine",
+   "url": "https://www.politico.com/news/2026/11/07/russia-hits-kyiv-in-overnight-attack-days-before-abu-dhabi-talks"
+  },
+  {
+   "startTime": 169.47,
+   "title": "World: Iran and the Gulf",
+   "url": "https://x.com/CENTCOM/status/2119167271989870888"
+  },
+  {
+   "startTime": 263.26,
+   "title": "World: Israel and Gaza",
+   "url": "https://x.com/AP/status/2119157583533515245"
+  },
+  {
+   "startTime": 289.62,
+   "title": "World: Elsewhere",
+   "url": "https://www.bbc.com/news/articles/c3ewev11g1e0o"
+  },
+  {
+   "startTime": 386.87,
+   "title": "Nation: Washington",
+   "url": "https://apnews.com/article/trump-secret-service-white-house-arrest-threat-2c691258ecd24461e41d1eacdbc957a3"
+  },
+  {
+   "startTime": 465.1,
+   "title": "Local: Southeast PA",
+   "url": "https://www.cbsnews.com/philadelphia/news/norristown-police-shooting-stanbridge-airy-investigation/"
+  },
+  {
+   "startTime": 553.85,
+   "title": "AI",
+   "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html"
+  },
+  {
+   "startTime": 605.95,
+   "title": "For your business",
+   "url": "https://english.news.cn/20261107/d1a796d88b854c598d76f172e21cf1b7/c.html"
+  },
+  {
+   "startTime": 635.97,
+   "title": "Outro",
+   "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+  }
+ ]
+}
