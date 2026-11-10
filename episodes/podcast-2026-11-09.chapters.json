@@ -1,0 +1,55 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://apnews.com/article/iran-us-war-trump-qatar-c38770b168faf5e094e96c1e1e212cff"
+  },
+  {
+   "startTime": 24.27,
+   "title": "World: Iran and the Gulf",
+   "url": "https://apnews.com/article/iran-us-war-trump-qatar-c38770b168faf5e094e96c1e1e212cff"
+  },
+  {
+   "startTime": 173.23,
+   "title": "World: Israel and Gaza",
+   "url": "https://x.com/AFP/status/2119789602596687879"
+  },
+  {
+   "startTime": 229.03,
+   "title": "World: Ukraine and Russia",
+   "url": "https://x.com/AJEnglish/status/2119810995946152146"
+  },
+  {
+   "startTime": 264.2,
+   "title": "World: Europe and elsewhere",
+   "url": "https://x.com/AFP/status/2119776765488828654"
+  },
+  {
+   "startTime": 324.2,
+   "title": "Nation: Washington",
+   "url": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth"
+  },
+  {
+   "startTime": 379.2,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://westchestermorningnews.com/local-news/editions/11-09-2026"
+  },
+  {
+   "startTime": 453.62,
+   "title": "AI",
+   "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy-5013619"
+  },
+  {
+   "startTime": 542.15,
+   "title": "For your business",
+   "url": "https://x.com/Reuters/status/2119691473150943660"
+  },
+  {
+   "startTime": 608.61,
+   "title": "Outro",
+   "url": "https://apnews.com/article/iran-us-war-trump-qatar-c38770b168faf5e094e96c1e1e212cff"
+  }
+ ]
+}
