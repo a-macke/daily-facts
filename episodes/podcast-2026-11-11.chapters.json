@@ -1,0 +1,55 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/AP/status/2120654501111595402"
+  },
+  {
+   "startTime": 24.09,
+   "title": "Nation: Washington and the country",
+   "url": "https://x.com/AP/status/2120654501111595402"
+  },
+  {
+   "startTime": 121.84,
+   "title": "World: Iran and the Gulf",
+   "url": "https://x.com/AJEnglish/status/2120676898321879400"
+  },
+  {
+   "startTime": 187.67,
+   "title": "World: Ukraine and Russia",
+   "url": "https://x.com/AJEnglish/status/2120560182258200967"
+  },
+  {
+   "startTime": 237.67,
+   "title": "World: Middle East, Europe and elsewhere",
+   "url": "https://x.com/AJEnglish/status/2120592673266364834"
+  },
+  {
+   "startTime": 326.31,
+   "title": "Markets and the economy",
+   "url": "https://x.com/Reuters/status/2120684028588384430"
+  },
+  {
+   "startTime": 367.01,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/NWS_MountHolly/status/2120676564077629641"
+  },
+  {
+   "startTime": 453.4,
+   "title": "AI",
+   "url": "https://x.com/Techmeme/status/2120646137560662166"
+  },
+  {
+   "startTime": 533.2,
+   "title": "For your business",
+   "url": "https://x.com/business/status/2120589895265640466"
+  },
+  {
+   "startTime": 595.38,
+   "title": "Outro",
+   "url": "https://x.com/AP/status/2120654501111595402"
+  }
+ ]
+}
