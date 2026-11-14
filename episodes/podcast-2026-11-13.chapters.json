@@ -1,0 +1,55 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/AP/status/2121356249325314424"
+  },
+  {
+   "startTime": 24.34,
+   "title": "Nation: Ground stop and outages",
+   "url": "https://x.com/AP/status/2121356249325314424"
+  },
+  {
+   "startTime": 155.81,
+   "title": "World: Iran, the Gulf and the Middle East",
+   "url": "https://x.com/Reuters/status/2121110889625436370"
+  },
+  {
+   "startTime": 226.99,
+   "title": "World: Ukraine, Russia and diplomacy",
+   "url": "https://x.com/business/status/2121022794729238595"
+  },
+  {
+   "startTime": 286.05,
+   "title": "World: Other news",
+   "url": "https://x.com/Reuters/status/2121365017207386424"
+  },
+  {
+   "startTime": 334.63,
+   "title": "Nation: Washington and politics",
+   "url": "https://x.com/AP/status/2121400225520644368"
+  },
+  {
+   "startTime": 384.06,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://api.weather.gov/alerts/active?zone=PAZ102"
+  },
+  {
+   "startTime": 478.06,
+   "title": "AI",
+   "url": "https://x.com/FT/status/2121288674927157708"
+  },
+  {
+   "startTime": 551.5,
+   "title": "For your business",
+   "url": "https://x.com/FOX29philly/status/2121207721416429984"
+  },
+  {
+   "startTime": 592.69,
+   "title": "Outro",
+   "url": "https://x.com/AP/status/2121364639132864946"
+  }
+ ]
+}
