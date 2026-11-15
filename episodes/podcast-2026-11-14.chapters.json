@@ -1,0 +1,55 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/AP/status/2121391602811727964"
+  },
+  {
+   "startTime": 23.67,
+   "title": "World: Trump, Xi and Putin",
+   "url": "https://x.com/AP/status/2121391602811727964"
+  },
+  {
+   "startTime": 56.61,
+   "title": "World: Ukraine and Russia",
+   "url": "https://x.com/business/status/2121542414456279212"
+  },
+  {
+   "startTime": 118.37,
+   "title": "World: Iran, the Gulf and the Middle East",
+   "url": "https://x.com/AFP/status/2121555006121762823"
+  },
+  {
+   "startTime": 210.42,
+   "title": "World: Other news",
+   "url": "https://x.com/AJEnglish/status/2121732989516484986"
+  },
+  {
+   "startTime": 268.82,
+   "title": "Nation: Air travel and Washington",
+   "url": "https://x.com/FOX29philly/status/2121728646603796503"
+  },
+  {
+   "startTime": 355.82,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/mychesco/status/2121392994783834209"
+  },
+  {
+   "startTime": 432.13,
+   "title": "AI",
+   "url": "https://x.com/CNBC/status/2121660005782851823"
+  },
+  {
+   "startTime": 509.81,
+   "title": "For your business",
+   "url": "https://x.com/LumberNews/status/2121319123586261122"
+  },
+  {
+   "startTime": 576.96,
+   "title": "Outro",
+   "url": "https://x.com/FOX29philly/status/2121728646603796503"
+  }
+ ]
+}
