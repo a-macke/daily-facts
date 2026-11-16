@@ -1,0 +1,60 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/Reuters/status/2121890973470900682"
+  },
+  {
+   "startTime": 23.47,
+   "title": "World: Iran, Bahrain and the Gulf",
+   "url": "https://x.com/Reuters/status/2121890973470900682"
+  },
+  {
+   "startTime": 85.23,
+   "title": "World: Yemen and Saudi Arabia",
+   "url": "https://x.com/AFP/status/2122078616938856506"
+  },
+  {
+   "startTime": 115.5,
+   "title": "World: Israel and Gaza",
+   "url": "https://x.com/AJEnglish/status/2122009890541449490"
+  },
+  {
+   "startTime": 154.55,
+   "title": "World: Ukraine, Russia and Europe",
+   "url": "https://kyivindependent.com/russia-launches-mass-attack-on-odesa-oblast-as-strikes-kill-4-injure-69-across-ukraine-over-past-day/"
+  },
+  {
+   "startTime": 223.68,
+   "title": "World: Other news",
+   "url": "https://x.com/Reuters/status/2121962698715869361"
+  },
+  {
+   "startTime": 264.25,
+   "title": "Nation: Air travel, space and health",
+   "url": "https://x.com/Reuters/status/2122011908383326645"
+  },
+  {
+   "startTime": 335.93,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/511PAPhilly/status/2121951356273807827"
+  },
+  {
+   "startTime": 422.03,
+   "title": "AI",
+   "url": "https://x.com/business/status/2122117463135375607"
+  },
+  {
+   "startTime": 521.8,
+   "title": "For your business",
+   "url": "https://www.investing.com/commodities/lumber-historical-data"
+  },
+  {
+   "startTime": 575.75,
+   "title": "Outro",
+   "url": "https://x.com/Reuters/status/2121890973470900682"
+  }
+ ]
+}
