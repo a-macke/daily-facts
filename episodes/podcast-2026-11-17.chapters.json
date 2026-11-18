@@ -1,0 +1,55 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/KyivIndependent/status/2122636567361523896"
+  },
+  {
+   "startTime": 27.72,
+   "title": "World: Ukraine and Russia",
+   "url": "https://x.com/KyivIndependent/status/2122636567361523896"
+  },
+  {
+   "startTime": 111.72,
+   "title": "World: Iran and the Gulf",
+   "url": "https://x.com/AJEnglish/status/2122790021543670244"
+  },
+  {
+   "startTime": 214.58,
+   "title": "World: Trump in Asia",
+   "url": "https://x.com/Reuters/status/2122703807511498924"
+  },
+  {
+   "startTime": 263.11,
+   "title": "World: Other news",
+   "url": "https://x.com/AP/status/2122729262859895196"
+  },
+  {
+   "startTime": 317.14,
+   "title": "Nation: Markets, the Fed and outages",
+   "url": "https://finance.yahoo.com/quote/%5EDJI/"
+  },
+  {
+   "startTime": 410.13,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/NBCPhiladelphia/status/2122768161095188835"
+  },
+  {
+   "startTime": 491.97,
+   "title": "AI",
+   "url": "https://x.com/Techmeme/status/2122803936327520268"
+  },
+  {
+   "startTime": 580.94,
+   "title": "For your business",
+   "url": "https://finance.yahoo.com/quote/LBR%3DF/"
+  },
+  {
+   "startTime": 618.19,
+   "title": "Outro",
+   "url": "https://x.com/KyivIndependent/status/2122636567361523896"
+  }
+ ]
+}
