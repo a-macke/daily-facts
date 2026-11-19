@@ -1,0 +1,60 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/NBCNews/status/2123134180695462376"
+  },
+  {
+   "startTime": 24.82,
+   "title": "World: Trump in China",
+   "url": "https://x.com/Reuters/status/2123029704554975339"
+  },
+  {
+   "startTime": 84.06,
+   "title": "World: Ukraine and Russia",
+   "url": "https://x.com/KyivIndependent/status/2123206356333371511"
+  },
+  {
+   "startTime": 145.64,
+   "title": "World: Iran and the Gulf",
+   "url": "https://x.com/i/trending/2123023691088793633"
+  },
+  {
+   "startTime": 218.34,
+   "title": "World: Gaza and Israel",
+   "url": "https://x.com/AJEnglish/status/2123041029695672674"
+  },
+  {
+   "startTime": 264.19,
+   "title": "World: Other news",
+   "url": "https://x.com/business/status/2123129223619485912"
+  },
+  {
+   "startTime": 296.12,
+   "title": "Nation: Fed, markets and Washington",
+   "url": "https://x.com/AFP/status/2123174457183211555"
+  },
+  {
+   "startTime": 380.84,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/PhillyInquirer/status/2123165476461187250"
+  },
+  {
+   "startTime": 445.75,
+   "title": "AI",
+   "url": "https://x.com/AP/status/2123185285487796681"
+  },
+  {
+   "startTime": 506.66,
+   "title": "For your business",
+   "url": "https://www.investing.com/commodities/lumber-historical-data"
+  },
+  {
+   "startTime": 577.19,
+   "title": "Outro",
+   "url": "https://x.com/AP/status/2123185285487796681"
+  }
+ ]
+}
