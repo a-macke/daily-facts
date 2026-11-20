@@ -1,0 +1,55 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/KyivIndependent/status/2123376148264759671"
+  },
+  {
+   "startTime": 23.77,
+   "title": "World: Trump, Xi and Putin",
+   "url": "https://x.com/AFP/status/2123399269784686932"
+  },
+  {
+   "startTime": 85.31,
+   "title": "World: Ukraine and Russia",
+   "url": "https://x.com/KyivIndependent/status/2123376932628660411"
+  },
+  {
+   "startTime": 149.53,
+   "title": "World: Iran and the Gulf",
+   "url": "https://x.com/AJEnglish/status/2123439132110164323"
+  },
+  {
+   "startTime": 229.63,
+   "title": "World: Other news",
+   "url": "https://x.com/Reuters/status/2123387205829922867"
+  },
+  {
+   "startTime": 292.71,
+   "title": "Nation: Markets and Washington",
+   "url": "https://x.com/CNBC/status/2123524574524399638"
+  },
+  {
+   "startTime": 344.52,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/wcdailylocal/status/2123425151144382473"
+  },
+  {
+   "startTime": 431.62,
+   "title": "AI",
+   "url": "https://x.com/business/status/2123464787250082264"
+  },
+  {
+   "startTime": 518.59,
+   "title": "For your business",
+   "url": "https://x.com/FreightWaves/status/2123435069905699160"
+  },
+  {
+   "startTime": 593.88,
+   "title": "Outro",
+   "url": "https://x.com/AFP/status/2123399269784686932"
+  }
+ ]
+}
