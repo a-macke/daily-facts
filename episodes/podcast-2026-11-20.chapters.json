@@ -1,0 +1,50 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/AP/status/2123895238842372111"
+  },
+  {
+   "startTime": 22.32,
+   "title": "World: Ukraine and Russia",
+   "url": "https://x.com/KyivIndependent/status/2123771412943155508"
+  },
+  {
+   "startTime": 119.05,
+   "title": "World: Yemen, Iran and the Gulf",
+   "url": "https://x.com/AJEnglish/status/2123783668917567504"
+  },
+  {
+   "startTime": 206.57,
+   "title": "World: Other news",
+   "url": "https://x.com/Reuters/status/2123782212055117908"
+  },
+  {
+   "startTime": 248.27,
+   "title": "Nation: Markets and Washington",
+   "url": "https://x.com/AP/status/2123895238842372111"
+  },
+  {
+   "startTime": 327.31,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/PhillyInquirer/status/2123895655017980292"
+  },
+  {
+   "startTime": 424.06,
+   "title": "AI",
+   "url": "https://x.com/Techmeme/status/2123886137127370841"
+  },
+  {
+   "startTime": 541.15,
+   "title": "For your business",
+   "url": "https://x.com/Nposkus/status/2123624164426969291"
+  },
+  {
+   "startTime": 612.79,
+   "title": "Outro",
+   "url": "https://x.com/AP/status/2123895238842372111"
+  }
+ ]
+}
