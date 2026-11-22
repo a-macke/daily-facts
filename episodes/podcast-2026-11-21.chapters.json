@@ -1,0 +1,50 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/Reuters/status/2124255325272285592"
+  },
+  {
+   "startTime": 25.97,
+   "title": "World: Iran and the Gulf",
+   "url": "https://x.com/moi_bahrain/status/2124221319117967570"
+  },
+  {
+   "startTime": 135.98,
+   "title": "World: Ukraine, Russia and the Baltic",
+   "url": "https://x.com/Reuters/status/2124125859803996227"
+  },
+  {
+   "startTime": 203.59,
+   "title": "World: Other news",
+   "url": "https://x.com/i/status/2124173828863701031"
+  },
+  {
+   "startTime": 277.43,
+   "title": "Nation: Washington and markets",
+   "url": "https://x.com/Reuters/status/2124090481889980671"
+  },
+  {
+   "startTime": 356.25,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://x.com/mpcabrey/status/2123968462212972664"
+  },
+  {
+   "startTime": 439.14,
+   "title": "AI",
+   "url": "https://x.com/Reuters/status/2124106843068764211"
+  },
+  {
+   "startTime": 503.29,
+   "title": "For your business",
+   "url": "https://www.cpsc.gov/Recalls/2027/Hultafors-Group-North-America-Recalls-Lighted-Portfolios-Angle-Locators-Calipers-and-Calculators-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries"
+  },
+  {
+   "startTime": 566.65,
+   "title": "Outro",
+   "url": "https://x.com/Reuters/status/2124255325272285592"
+  }
+ ]
+}
