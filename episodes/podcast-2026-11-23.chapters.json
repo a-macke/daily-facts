@@ -1,0 +1,55 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+  },
+  {
+   "startTime": 28.17,
+   "title": "World: Iran and the Gulf",
+   "url": "https://www.iranintl.com/en/202611232940"
+  },
+  {
+   "startTime": 96.29,
+   "title": "World: Ukraine, Russia and Europe",
+   "url": "https://abcnews.com/International/ukrainian-naval-drones-sank-russias-merkury-warship-libya/story?id=138369738"
+  },
+  {
+   "startTime": 175.01,
+   "title": "World: Asia and the Middle East",
+   "url": "https://apnews.com/article/south-north-korea-tensions-airspace-ulleung-island-a0347d1dda863d8189bbdf21c320ee3b"
+  },
+  {
+   "startTime": 238.52,
+   "title": "Nation: Washington and markets",
+   "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+  },
+  {
+   "startTime": 294.55,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://vista.today/2026/11/chester-county-budget-property-tax-increase/"
+  },
+  {
+   "startTime": 387.73,
+   "title": "AI",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+  },
+  {
+   "startTime": 480.0,
+   "title": "Second Amendment cases",
+   "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-238.html"
+  },
+  {
+   "startTime": 520.45,
+   "title": "For your business",
+   "url": "https://www.puc.pa.gov/press-release/2026/puc-encourages-consumers-to-prepare-for-rising-winter-electric-costs-as-december-1-brings-price-changes-11132026"
+  },
+  {
+   "startTime": 577.73,
+   "title": "Outro",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+  }
+ ]
+}
