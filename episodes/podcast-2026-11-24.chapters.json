@@ -1,0 +1,50 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://www.investing.com/news/commodities-news/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources-say-5048724"
+  },
+  {
+   "startTime": 29.47,
+   "title": "World: Iran and the Gulf",
+   "url": "https://www.tasnimnews.ir/en/news/2026/11/24/3757033/iranian-navy-two-more-tankers-hit-naval-mines-in-strait-of-hormuz"
+  },
+  {
+   "startTime": 112.59,
+   "title": "World: Ukraine, Russia and Europe",
+   "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation"
+  },
+  {
+   "startTime": 184.63,
+   "title": "World: Middle East and Asia",
+   "url": "https://x.com/AFP/status/2125270600394420506"
+  },
+  {
+   "startTime": 244.63,
+   "title": "Nation: Washington and markets",
+   "url": "https://www.nbcnews.com/business/markets/stocks-lower-after-nvidia-fueled-gains-rcna611211"
+  },
+  {
+   "startTime": 337.54,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://www.nbcphiladelphia.com/weather/stories-weather/thanksgiving-storm-to-bring-damaging-winds-coastal-flooding-to-region/4502489/"
+  },
+  {
+   "startTime": 431.97,
+   "title": "AI",
+   "url": "https://x.com/AFP/status/2125348781969318376"
+  },
+  {
+   "startTime": 508.78,
+   "title": "For your business",
+   "url": "https://www.investing.com/news/commodities-news/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources-say-5048724"
+  },
+  {
+   "startTime": 576.69,
+   "title": "Outro",
+   "url": "https://www.investing.com/news/commodities-news/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources-say-5048724"
+  }
+ ]
+}
