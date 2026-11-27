@@ -1,0 +1,45 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://www.fox29.com/news/peco-power-outages-philadelphia-thanksgiving-noreaster-2026"
+  },
+  {
+   "startTime": 29.12,
+   "title": "World: Ukraine and Russia",
+   "url": "https://www.president.gov.ua/en/news/mayemo-na-zhal-informaciyu-pro-pidgotovku-rosiyanami-novogo-107521"
+  },
+  {
+   "startTime": 125.21,
+   "title": "World: Iran and the Gulf",
+   "url": "https://www.nbcnews.com/world/middle-east/two-italians-killed-attack-kuwait-site-iran-denies-involvement-rcna611491"
+  },
+  {
+   "startTime": 207.67,
+   "title": "World: Middle East and Europe",
+   "url": "https://www.channelnewsasia.com/world/israel-katz-threat-displace-1-million-gaza-residents-hamas-6585316"
+  },
+  {
+   "startTime": 272.32,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://www.fox29.com/news/peco-power-outages-philadelphia-thanksgiving-noreaster-2026"
+  },
+  {
+   "startTime": 362.29,
+   "title": "AI",
+   "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5052112"
+  },
+  {
+   "startTime": 428.99,
+   "title": "For your business",
+   "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+  },
+  {
+   "startTime": 488.45,
+   "title": "Outro",
+   "url": "https://www.fox29.com/news/peco-power-outages-philadelphia-thanksgiving-noreaster-2026"
+  }
+ ]
+}
