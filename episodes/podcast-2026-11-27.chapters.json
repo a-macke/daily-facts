@@ -1,0 +1,45 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro",
+   "url": "https://x.com/AJEnglish/status/2126442190276591784"
+  },
+  {
+   "startTime": 29.04,
+   "title": "World: Iran and the Gulf",
+   "url": "https://x.com/IrnaEnglish/status/2126433644398923908"
+  },
+  {
+   "startTime": 137.06,
+   "title": "World: Ukraine, Russia and Europe",
+   "url": "https://x.com/Reuters/status/2126411564228001893"
+  },
+  {
+   "startTime": 213.78,
+   "title": "World: Israel, Gaza and other news",
+   "url": "https://x.com/AJEnglish/status/2126456718435700783"
+  },
+  {
+   "startTime": 287.76,
+   "title": "Local: Chester County and Southeast PA",
+   "url": "https://6abc.com/post/peco-says-widespread-outages-thanksgiving-storm-could-restored-sunday/20091479/"
+  },
+  {
+   "startTime": 405.01,
+   "title": "AI",
+   "url": "https://www.cbsnews.com/news/openai-countersues-apple-trade-secrets-lawsuit/"
+  },
+  {
+   "startTime": 485.66,
+   "title": "For your business",
+   "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052"
+  },
+  {
+   "startTime": 562.25,
+   "title": "Outro",
+   "url": "https://6abc.com/post/peco-says-widespread-outages-thanksgiving-storm-could-restored-sunday/20091479/"
+  }
+ ]
+}
